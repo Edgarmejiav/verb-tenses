@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "They got across the river.",
+      "negative": "He didn't got across the river.",
+      "interrogative": "did he get across the river?"
+    },
+    "present": {
+      "affirmative": "I get across the river.",
+      "negative": "I don't get across the river.",
+      "interrogative": "Do I get across the river?"
+    },
+    "future": {
+      "affirmative": "You will get across the river.",
+      "negative": "You won't get across the river.",
+      "interrogative": "Will you get across the river?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "I had gotten across the river.",
+      "negative": "I hadn't gotten across the river.",
+      "interrogative": "Had I gotten across the river?"
+    },
+    "present": {
+      "affirmative": "She has gotten across the river.",
+      "negative": "She hasn't gotten across the river.",
+      "interrogative": "Has she gotten across the river?"
+    },
+    "future": {
+      "affirmative": "I will have gotten across the river.",
+      "negative": "I won't have gotten across the river.",
+      "interrogative": "Will I have gotten across the river?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "I was getting across the river.",
+      "negative": "I wasn't getting across the river.",
+      "interrogative": "Was I getting across the river?"
+    },
+    "present": {
+      "affirmative": "I am getting across the river.",
+      "negative": "I am not getting across the river.",
+      "interrogative": "Am I getting across the river?"
+    },
+    "future": {
+      "affirmative": "I will be getting across the river.",
+      "negative": "I won't be getting across the river.",
+      "interrogative": "Will I be getting across the river?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "They had been getting across the river.",
+      "negative": "They hadn't been getting across the river.",
+      "interrogative": "Had they been getting across the river?"
+    },
+    "present": {
+      "affirmative": "I have been getting across the river.",
+      "negative": "I haven't been getting across the river.",
+      "interrogative": "Have I been getting across the river?"
+    },
+    "future": {
+      "affirmative": "He will have been getting across the river.",
+      "negative": "He won't have been getting across the river.",
+      "interrogative": "Will he have been getting across the river?"
+    }
+  }
+}
