@@ -1,3 +1,3 @@
 # List of verbs 
 
-- [help.md](/home/lega/Documents/english-tenses/verbs-md/help.md)
+- [help.md](../verbs-md/help.md)

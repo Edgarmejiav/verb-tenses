@@ -4,9 +4,9 @@ from getdata import generate_md_list, read_template, process_json_file, write_ou
 
 if __name__ == "__main__":
     TEMPLATE_README = "../template.md"
-    DATA_DIR = abspath("../verbs")
+    DATA_DIR = "../verbs"
     raw_template_content = read_template(TEMPLATE_README)
-    generate_md_list(abspath("../verbs-md"), '../README.md')
+    generate_md_list("../verbs-md", '../README.md')
     for f in listdir(DATA_DIR):
         if isfile(join(DATA_DIR, f)) and f.endswith(".json"):
             json_path = join(DATA_DIR, f)
