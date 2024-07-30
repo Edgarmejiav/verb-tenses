@@ -9,7 +9,7 @@ def generate_md_list(directory, output_file):
         with open(output_file, 'w') as file:
             file.write('# List of verbs \n\n')
             for md_file in md_files:
-                file.write(f'- ["https://github.com/Edgarmejiav/verb-tenses/blob/main/verbs-md/"{md_file})\n')
+                file.write(f'- [{md_file}](https://github.com/Edgarmejiav/verb-tenses/blob/main/verbs-md/{md_file})\n')
 
     except FileNotFoundError:
         print(f'The directory {directory} was not found.')
