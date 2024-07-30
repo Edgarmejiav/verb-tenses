@@ -3,6 +3,18 @@ import json
 from os import listdir
 from os.path import isfile, join, abspath
 
+
+def generate_md_list(directory, output_file):
+    try:
+        md_files = [f for f in os.listdir(directory) if f.endswith('.md')]
+        with open(output_file, 'w') as file:
+            file.write('# List of verbs \n\n')
+            for md_file in md_files:
+                file.write(f'- [{md_file}]({directory}/{md_file})\n')
+
+    except FileNotFoundError:
+        print(f'The directory {directory} was not found.')
+
 def read_template(template_path):
     with open(template_path) as template:
         return template.read()
@@ -27,11 +39,10 @@ def process_json_file(json_path, template_content):
                 marker = f"@{tense.upper()}{tense_type.upper()}{form.upper()}"
                 replacement = tense_data.get(tense, {}).get(form, "")
                 raw_template = raw_template.replace(marker, replacement)
-
     return verb, raw_template
 
 def write_output_file(verb, content):
-    output_path = abspath(f"../{verb}.md")
+    output_path = abspath(f"../verbs-md/{verb}.md")
     with open(output_path, "w") as out_file:
         out_file.write(content)
 
@@ -39,10 +50,9 @@ if __name__ == "__main__":
     TEMPLATE_README = "../template.md"
     DATA_DIR = abspath("../verbs")
     raw_template_content = read_template(TEMPLATE_README)
-
+    generate_md_list(abspath("../verbs-md"), '../README.md')
     for f in listdir(DATA_DIR):
         if isfile(join(DATA_DIR, f)) and f.endswith(".json"):
             json_path = join(DATA_DIR, f)
             verb, raw_template = process_json_file(json_path, raw_template_content)
             write_output_file(verb, raw_template)
-
