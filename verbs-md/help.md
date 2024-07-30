@@ -8,7 +8,7 @@
   <tr>
     <td><strong>Simple</strong><br>Did / do/does /<br>will / + verb</td>
     <td>
-      ➡️he did help me.<br>
+      ➡️he did help me<br>
       ➖he didn't help me<br>
       ❓did he help me?<br>
     </td>
