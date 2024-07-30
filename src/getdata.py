@@ -41,7 +41,7 @@ def process_json_file(json_path, template_content):
     return verb, raw_template
 
 def write_output_file(verb, content):
-    output_path = f"../verbs-md/{verb}.md"
+    output_path = abspath(f"../verbs-md/{verb}.md")
     with open(output_path, "w") as out_file:
         out_file.write(content)
 
