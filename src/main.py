@@ -1,6 +1,6 @@
 from os import listdir
 from os.path import isfile, join, abspath
-from src.getdata import generate_md_list, read_template, process_json_file, write_output_file
+from getdata import generate_md_list, read_template, process_json_file, write_output_file
 
 if __name__ == "__main__":
     TEMPLATE_README = "../template.md"
