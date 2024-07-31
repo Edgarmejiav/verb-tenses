@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "He found the book.",
+      "negative": "He didn't find the book.",
+      "interrogative": "Did he find the book?"
+    },
+    "present": {
+      "affirmative": "He finds the book.",
+      "negative": "He doesn't find the book.",
+      "interrogative": "Does he find the book?"
+    },
+    "future": {
+      "affirmative": "He will find the book.",
+      "negative": "He won't find the book.",
+      "interrogative": "Will he find the book?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "They had found the book.",
+      "negative": "They had not found the book.",
+      "interrogative": "Had they found the book?"
+    },
+    "present": {
+      "affirmative": "They have found the book.",
+      "negative": "They haven't found the book.",
+      "interrogative": "Have they found the book?"
+    },
+    "future": {
+      "affirmative": "She will have found the book.",
+      "negative": "She won't have found the book.",
+      "interrogative": "Will she have found the book?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "She was finding the book.",
+      "negative": "She wasn't finding the book.",
+      "interrogative": "Was she finding the book?"
+    },
+    "present": {
+      "affirmative": "He is finding the book.",
+      "negative": "He isn't finding the book.",
+      "interrogative": "Is he finding the book?"
+    },
+    "future": {
+      "affirmative": "He will be finding the book.",
+      "negative": "He won't be finding the book.",
+      "interrogative": "Will he be finding the book?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "I had been finding the book.",
+      "negative": "I hadn't been finding the book.",
+      "interrogative": "Had I been finding the book?"
+    },
+    "present": {
+      "affirmative": "I have been finding the book.",
+      "negative": "I haven't been finding the book.",
+      "interrogative": "Have I been finding the book?"
+    },
+    "future": {
+      "affirmative": "I will have been finding the book.",
+      "negative": "I won't have been finding the book.",
+      "interrogative": "Will I have been finding the book?"
+    }
+  }
+}
