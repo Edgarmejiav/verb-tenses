@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "He got up at 7",
+      "negative": "He didn't get up at 7",
+      "interrogative": "Did he get up at 7?"
+    },
+    "present": {
+      "affirmative": "I get up at 7",
+      "negative": "I don't get up at 7",
+      "interrogative": "Do you get up at 7?"
+    },
+    "future": {
+      "affirmative": "You will get up at 7",
+      "negative": "You won't get up at 7",
+      "interrogative": "Wont you get up at 7?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "He had got up at 7",
+      "negative": "He hadn't got up at 7",
+      "interrogative": "Had he got up at 7?"
+    },
+    "present": {
+      "affirmative": "I have got up at 7",
+      "negative": "I haven't got up at 7",
+      "interrogative": "Have you got up at 7?"
+    },
+    "future": {
+      "affirmative": "She have will up at 7",
+      "negative": "He won't have got up at 7",
+      "interrogative": "Will she have got up at 7?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "He was getting up at 7",
+      "negative": "He wasn't getting up at 7",
+      "interrogative": "He was getting up at 7?"
+    },
+    "present": {
+      "affirmative": "You are getting up at 7",
+      "negative": "You aren't getting up at 7",
+      "interrogative": "Are you getting up at 7?"
+    },
+    "future": {
+      "affirmative": "You will be getting up at 7",
+      "negative": "You won't be getting up at 7",
+      "interrogative": "Will you be getting up at 7?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "We had been getting up at 7",
+      "negative": "We hadn't been getting up at 7",
+      "interrogative": "Had we been getting up at 7?"
+    },
+    "present": {
+      "affirmative": "We have been getting up at 7",
+      "negative": "We haven't been getting up at 7",
+      "interrogative": "Have we been getting up at 7?"
+    },
+    "future": {
+      "affirmative": "He will have been getting up at 7",
+      "negative": "He won't have been getting up at 7",
+      "interrogative": "Will he have been getting up at 7?"
+    }
+  }
+}
