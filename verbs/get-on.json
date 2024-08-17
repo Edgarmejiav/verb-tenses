@@ -1,7 +1,7 @@
 {
   "simple": {
     "past": {
-      "affirmative": "I got on the bus",
+      "affirmative": "I did get on the bus",
       "negative": "I didn't get on the bus",
       "interrogative": "did I get on the bus?"
     },
@@ -18,9 +18,9 @@
   },
   "perfect": {
     "past": {
-      "affirmative": "I had got on the bus",
-      "negative": "I hadn't got on the bus",
-      "interrogative": "Had I got on the bus?"
+      "affirmative": "I had gotten on the bus",
+      "negative": "I hadn't gotten on the bus",
+      "interrogative": "Had I gotten on the bus?"
     },
     "present": {
       "affirmative": "I have gotten on the bus",
@@ -29,7 +29,7 @@
     },
     "future": {
       "affirmative": "I will have gotten on the bus",
-      "negative": "I won't have get on the bus",
+      "negative": "I won't have gotten on the bus",
       "interrogative": "Will I have gotten on the bus?"
     }
   },
