@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "He did get over his illness.",
+      "negative": "He didn't get over his illness.",
+      "interrogative": "Did he get over his illness?"
+    },
+    "present": {
+      "affirmative": "He gets over his illness.",
+      "negative": "He doesn't get over his illness.",
+      "interrogative": "Does he get over his illness?"
+    },
+    "future": {
+      "affirmative": "He will get over his illness.",
+      "negative": "He won't get over his illness.",
+      "interrogative": "Will he get over his illness?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "He had gotten over his illness.",
+      "negative": "He hadn't gotten over his illness.",
+      "interrogative": "Had he gotten over his illness?"
+    },
+    "present": {
+      "affirmative": "He has gotten over his illness.",
+      "negative": "He hasn't gotten over his illness.",
+      "interrogative": "Has he gotten over his illness?"
+    },
+    "future": {
+      "affirmative": "He will have gotten over his illness.",
+      "negative": "He won't have gotten over his illness.",
+      "interrogative": "Will he have gotten over his illness?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "He was getting over his illness.",
+      "negative": "He wasn't getting over his illness.",
+      "interrogative": "was he getting over his illness?"
+    },
+    "present": {
+      "affirmative": "He is getting over his illness.",
+      "negative": "He isn't getting over his illness.",
+      "interrogative": "Is he getting over his illness?"
+    },
+    "future": {
+      "affirmative": "He will be getting over his illness.",
+      "negative": "He won't be getting over his illness.",
+      "interrogative": "Will he be getting over his illness?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "He had been getting over his illness.",
+      "negative": "He hadn't been getting over his illness.",
+      "interrogative": "Had he been getting over his illness?"
+    },
+    "present": {
+      "affirmative": "He has been getting over his illness.",
+      "negative": "He hasn't been getting over his illness.",
+      "interrogative": "Has he been getting over his illness?"
+    },
+    "future": {
+      "affirmative": "He will have been getting over his illness.",
+      "negative": "He won't have been getting over his illness.",
+      "interrogative": "Will he have been getting over his illness?"
+    }
+  }
+}
