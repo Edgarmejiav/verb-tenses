@@ -26,19 +26,19 @@
   <tr>
     <td><strong>Perfect</strong><br>had / have/has /<br>will have / +<br>verb participle</td>
     <td>
-      ➡️He had got up at 7<br>
-      ➖He hadn't got up at 7<br>
-      ❓Had he got up at 7?<br>
+      ➡️He had gotten up at 7<br>
+      ➖He hadn't gotten up at 7<br>
+      ❓Had he gotten up at 7?<br>
     </td>
     <td>
-      ➡️I have got up at 7<br>
-      ➖I haven't got up at 7<br>
-      ❓Have you got up at 7?<br>
+      ➡️I have gotten up at 7<br>
+      ➖I haven't gotten up at 7<br>
+      ❓Have you gotten up at 7?<br>
     </td>
     <td>
-      ➡️She have will up at 7<br>
-      ➖He won't have got up at 7<br>
-      ❓Will she have got up at 7?<br>
+      ➡️She have will gotten up at 7<br>
+      ➖He won't have gotten up at 7<br>
+      ❓Will she have gotten up at 7?<br>
     </td>
   </tr>
   <tr>

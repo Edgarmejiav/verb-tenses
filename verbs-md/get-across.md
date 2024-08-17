@@ -8,8 +8,8 @@
   <tr>
     <td><strong>Simple</strong><br>Did / do/does /<br>will / + verb</td>
     <td>
-      ➡️They got across the river.<br>
-      ➖He didn't got across the river.<br>
+      ➡️They did get across the river.<br>
+      ➖He didn't get across the river.<br>
       ❓did he get across the river?<br>
     </td>
     <td>
