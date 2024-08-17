@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "I got on the bus",
+      "negative": "I didn't get on the bus",
+      "interrogative": "did I get on the bus?"
+    },
+    "present": {
+      "affirmative": "I get on the bus",
+      "negative": "I don't get on the bus",
+      "interrogative": "do I get on the bus?"
+    },
+    "future": {
+      "affirmative": "I will get on the bus",
+      "negative": "I won't get on the bus",
+      "interrogative": "Will I get on the bus?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "I had got on the bus",
+      "negative": "I hadn't got on the bus",
+      "interrogative": "Had I got on the bus?"
+    },
+    "present": {
+      "affirmative": "I have gotten on the bus",
+      "negative": "I haven't gotten on the bus",
+      "interrogative": "Have I gotten on the bus?"
+    },
+    "future": {
+      "affirmative": "I will have gotten on the bus",
+      "negative": "I won't have get on the bus",
+      "interrogative": "Will I have gotten on the bus?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "I was getting on the bus",
+      "negative": "I wasn't getting on the bus",
+      "interrogative": "Was I getting on the bus?"
+    },
+    "present": {
+      "affirmative": "I am getting on the bus",
+      "negative": "I am not getting on the bus",
+      "interrogative": "Am I getting on the bus?"
+    },
+    "future": {
+      "affirmative": "I will be getting on the bus",
+      "negative": "I won't be getting on the bus",
+      "interrogative": "will I be getting on the bus?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "I had been getting on the bus",
+      "negative": "I hadn't been getting on the bus",
+      "interrogative": "Had I been getting on the bus?"
+    },
+    "present": {
+      "affirmative": "I have been getting on the bus",
+      "negative": "I haven't been getting on the bus",
+      "interrogative": "have I been getting on the bus?"
+    },
+    "future": {
+      "affirmative": "I will have been getting on the bus",
+      "negative": "I won't have been getting on the bus",
+      "interrogative": "Will I have been getting on the bus?"
+    }
+  }
+}
