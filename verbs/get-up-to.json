@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "They did get up to something in the garden",
+      "negative": "They didn't get up to anything in the garden",
+      "interrogative": "Did they get up to anything in the garden?"
+    },
+    "present": {
+      "affirmative": "They get up to something in the garden",
+      "negative": "They don't get up to anything in the garden",
+      "interrogative": "do they get up to anything in the garden?"
+    },
+    "future": {
+      "affirmative": "They will get up to something in the garden",
+      "negative": "They won't get up to anything in the garden",
+      "interrogative": "Will they get up to anything in the garden?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "They had gotten up to something in the garden",
+      "negative": "They hadn't gotten up to anything in the garden",
+      "interrogative": "Had they gotten up to anything in the garden?"
+    },
+    "present": {
+      "affirmative": "They have gotten up to something in the garden",
+      "negative": "They haven't gotten up to anything in the garden",
+      "interrogative": "Have they gotten up to anything in the garden?"
+    },
+    "future": {
+      "affirmative": "They will have gotten up to something in the garden",
+      "negative": "They won't have gotten up to anything in the garden",
+      "interrogative": "Will they have gotten up to anything in the garden?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "They were getting up to something in the garden",
+      "negative": "They weren't getting up to anything in the garden",
+      "interrogative": "Were they getting up to anything in the garden?"
+    },
+    "present": {
+      "affirmative": "They are getting up to something in the garden",
+      "negative": "They aren't getting up to anything in the garden",
+      "interrogative": "Are they getting up to anything in the garden?"
+    },
+    "future": {
+      "affirmative": "They will be getting up to something in the garden",
+      "negative": "They won't be getting up to anything in the garden",
+      "interrogative": "Will they be getting up to anything in the garden?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "They had been getting up to something in the garden",
+      "negative": "They hadn't been getting up to anything in the garden",
+      "interrogative": "Had they been getting up to anything in the garden?"
+    },
+    "present": {
+      "affirmative": "They have been getting up to something in the garden",
+      "negative": "They haven't been getting up to anything in the garden",
+      "interrogative": "Have they been getting up to anything in the garden?"
+    },
+    "future": {
+      "affirmative": "They will have been getting up to something in the garden",
+      "negative": "They won't have been getting up to anything in the garden",
+      "interrogative": "Will they have been getting up to anything in the garden?"
+    }
+  }
+}
