@@ -1,8 +1,8 @@
 {
   "simple": {
     "past": {
-      "affirmative": "They got across the river.",
-      "negative": "He didn't got across the river.",
+      "affirmative": "They did get across the river.",
+      "negative": "He didn't get across the river.",
       "interrogative": "did he get across the river?"
     },
     "present": {
