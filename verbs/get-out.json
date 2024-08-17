@@ -18,19 +18,19 @@
   },
   "perfect": {
     "past": {
-      "affirmative": "He had got up at 7",
-      "negative": "He hadn't got up at 7",
-      "interrogative": "Had he got up at 7?"
+      "affirmative": "He had gotten up at 7",
+      "negative": "He hadn't gotten up at 7",
+      "interrogative": "Had he gotten up at 7?"
     },
     "present": {
-      "affirmative": "I have got up at 7",
-      "negative": "I haven't got up at 7",
-      "interrogative": "Have you got up at 7?"
+      "affirmative": "I have gotten up at 7",
+      "negative": "I haven't gotten up at 7",
+      "interrogative": "Have you gotten up at 7?"
     },
     "future": {
-      "affirmative": "She have will up at 7",
-      "negative": "He won't have got up at 7",
-      "interrogative": "Will she have got up at 7?"
+      "affirmative": "She have will gotten up at 7",
+      "negative": "He won't have gotten up at 7",
+      "interrogative": "Will she have gotten up at 7?"
     }
   },
   "continuous": {
