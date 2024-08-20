@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "she went after a great job",
+      "negative": "She did go after a great job",
+      "interrogative": "Did she go after a great job"
+    },
+    "present": {
+      "affirmative": "She goes after a great job",
+      "negative": "She doesn't go after a great job",
+      "interrogative": "Does she go after a great job"
+    },
+    "future": {
+      "affirmative": "She will go after a great job",
+      "negative": "She won´t go after a great job ",
+      "interrogative": "Will she go after a great job"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "I had gone after a great job",
+      "negative": "I hadn't gone after a great job",
+      "interrogative": "Had I gone after a great job"
+    },
+    "present": {
+      "affirmative": "I have gone after a great job ",
+      "negative": "I haven't gone after a great job",
+      "interrogative": "Have I gone after a great job"
+    },
+    "future": {
+      "affirmative": "I will have gone after a great job",
+      "negative": "I won't have gone after a great job",
+      "interrogative": "Have I will gone after a great job"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "They were going after a great job",
+      "negative": "They weren't  going after a great job",
+      "interrogative": "Were they  going after a great job"
+    },
+    "present": {
+      "affirmative": "They are going after a great job",
+      "negative": "They aren't going after a great job",
+      "interrogative": "Are they going after a great job"
+    },
+    "future": {
+      "affirmative": "They will be going after a great job",
+      "negative": "They won't be going after a great job",
+      "interrogative": "Will they be going after a great job"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "We had been going after a great job ",
+      "negative": "We hadn't been going after a great job",
+      "interrogative": "Had we been going after a great job"
+    },
+    "present": {
+      "affirmative": "We have been going after a great job",
+      "negative": "We haven't been going after a great job",
+      "interrogative": "Have We been going after a great job"
+    },
+    "future": {
+      "affirmative": "We will have been going after a great job",
+      "negative": "We won't have been going after a great job",
+      "interrogative": "will we have been going after a great job"
+    }
+  }
+}
