@@ -8,7 +8,7 @@
   <tr>
     <td><strong>Simple</strong><br>Did / do/does /<br>will / + verb</td>
     <td>
-      ➡️They did get up to something in the garden<br>
+      ➡️They did get up to something in the garden <br>
       ➖They didn't get up to anything in the garden<br>
       ❓Did they get up to anything in the garden?<br>
     </td>

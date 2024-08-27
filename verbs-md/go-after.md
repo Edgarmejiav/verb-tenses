@@ -19,7 +19,7 @@
     </td>
     <td>
       ➡️She will go after a great job<br>
-      ➖She won´t go after a great job <br>
+      ➖She won´t go after a great job<br>
       ❓Will she go after a great job<br>
     </td>
   </tr>
