@@ -8,7 +8,7 @@
   <tr>
     <td><strong>Simple</strong><br>Did / do/does /<br>will / + verb</td>
     <td>
-      ➡️I did get on the bus<br>
+      ➡️I got on the bus<br>
       ➖I didn't get on the bus<br>
       ❓did I get on the bus?<br>
     </td>
