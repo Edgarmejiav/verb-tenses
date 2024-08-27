@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "I completely agreed with your opinion",
+      "negative": "I didn't completely agree with your opinion",
+      "interrogative": "Did I completely agree with your opinion?"
+    },
+    "present": {
+      "affirmative": "I completely agree with your opinion",
+      "negative": "I completely don't agree with your opinion",
+      "interrogative": "Do I completely agree with your opinion?"
+    },
+    "future": {
+      "affirmative": "I will completely agree with your opinion ",
+      "negative": "I won't  completely agree with your opinion",
+      "interrogative": "Will I  completely agree with your opinion?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "She had completely agreed with your opinion ",
+      "negative": "She had not completely agreed with your opinion",
+      "interrogative": "Had she completely agreed with your opinion?"
+    },
+    "present": {
+      "affirmative": "She has completely agreed with your opinion ",
+      "negative": "She hasn't completely agreed with your opinion ",
+      "interrogative": "has she completely agreed with your opinion "
+    },
+    "future": {
+      "affirmative": "She will have completely agreed with your opinion  ",
+      "negative": "She won't have completely agreed with your opinion",
+      "interrogative": "will she have completely agreed with your opinion "
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "She was completely agreeing with your opinion ",
+      "negative": "She wasn't completely agreeing with your opinion ",
+      "interrogative": "was she completely agreeing with your opinion? "
+    },
+    "present": {
+      "affirmative": "She is completely agreeing with your opinion ",
+      "negative": "She isn't completely agreeing with your opinion ",
+      "interrogative": "Is she completely agreeing with your opinion? "
+    },
+    "future": {
+      "affirmative": "She will be completely agreeing with your opinion  ",
+      "negative": "She won't be completely agreeing with your opinion ",
+      "interrogative": "Will she be completely agreeing with your opinion? "
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "She had been completely agreeing with your opinion ",
+      "negative": "She hadn't been completely agreeing with your opinion ",
+      "interrogative": "Had she been completely agreeing with your opinion? "
+    },
+    "present": {
+      "affirmative": "She has been completely agreeing with your opinion ",
+      "negative": "She hasn't been completely agreeing with your opinion ",
+      "interrogative": "Has she been completely agreeing with your opinion? "
+    },
+    "future": {
+      "affirmative": "She will have been completely agreeing with your opinion",
+      "negative": "She won't have been completely agreeing with your opinion",
+      "interrogative": "Will she have been completely agreeing with your opinion"
+    }
+  }
+}
