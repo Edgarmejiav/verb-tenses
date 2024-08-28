@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "He backed out of the agreement.",
+      "negative": "He didn't back out of the agreement",
+      "interrogative": "Did he back out of the agreement?"
+    },
+    "present": {
+      "affirmative": "He backs out of the agreement",
+      "negative": "He doesn't back out of the agreement",
+      "interrogative": "Does he back out of the agreement?"
+    },
+    "future": {
+      "affirmative": "He will back out of the agreement",
+      "negative": "He won't back out of the agreement",
+      "interrogative": "Wil He back out of the agreement?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "He had backed out of the agreement",
+      "negative": "He hadn't backed out of the agreement",
+      "interrogative": "Had he backed out the agreement?"
+    },
+    "present": {
+      "affirmative": "He has backed out of the agreement",
+      "negative": "He hasn't backed out of the agreement",
+      "interrogative": "Has he backed out of the agreement?"
+    },
+    "future": {
+      "affirmative": "He will have backed out of the agreement",
+      "negative": "He won't backed out of the agreement",
+      "interrogative": "Will he has backed out of the agreement"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "He was backing out of the agreement",
+      "negative": "He wasn't backing out of the agreement",
+      "interrogative": "Was he backing out of the agreement"
+    },
+    "present": {
+      "affirmative": "He is backing out of the agreement",
+      "negative": "He isn't backing out of the agreement",
+      "interrogative": "Is he backing out of the agreement?"
+    },
+    "future": {
+      "affirmative": "He will be backing out of the agreement",
+      "negative": "He won't be backing out of the agreement",
+      "interrogative": "Will he be backing out of the agreement"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "He had been backing out of the agreement",
+      "negative": "He hadn't been backing out of the agreement",
+      "interrogative": "Had he been backing out of the agreement?"
+    },
+    "present": {
+      "affirmative": "He has been backing out of the agreement ",
+      "negative": "He hasn't been backing out of the agreement",
+      "interrogative": "Has he had been backing out of the agreement?"
+    },
+    "future": {
+      "affirmative": "He will have been backing out of the agreement",
+      "negative": "He won't have been backing out of the agreement",
+      "interrogative": "Will he have been backing out of the agreement?"
+    }
+  }
+}
