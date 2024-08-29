@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "I came across an interesting article ",
+      "negative": "I didn't come across an interesting article ",
+      "interrogative": "Did I come across an interesting article?"
+    },
+    "present": {
+      "affirmative": "I come across an interesting article ",
+      "negative": "I don't come  across an interesting article",
+      "interrogative": "Do I come  across an interesting article?"
+    },
+    "future": {
+      "affirmative": "I will come  across an interesting article",
+      "negative": "I won´t come  across an interesting article",
+      "interrogative": "Will I come  across an interesting article?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "I had come across an interesting article",
+      "negative": "I han't come across an interesting article",
+      "interrogative": "Had come across an interesting article?"
+    },
+    "present": {
+      "affirmative": "I have come across an interesting article",
+      "negative": "I haven't come across an interesting article",
+      "interrogative": "Have I come across an interesting article?"
+    },
+    "future": {
+      "affirmative": "I will have come across an interesting article",
+      "negative": "I won't have come across an interesting article",
+      "interrogative": "Will I have come across an interesting article?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "I was coming across an interesting article",
+      "negative": "I wasn't coming across an interesting article",
+      "interrogative": "Was I coming across an interesting article?"
+    },
+    "present": {
+      "affirmative": "I'm coming across an interesting article",
+      "negative": "I'm not coming across an interesting article",
+      "interrogative": "Am I coming across an interesting article?"
+    },
+    "future": {
+      "affirmative": "I will be coming across an interesting article",
+      "negative": "I won't be coming across an interesting article",
+      "interrogative": "Will I be coming across an interesting article?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "I had been coming across an interesting article",
+      "negative": "I hadn't been coming across an interesting article",
+      "interrogative": "Had I been coming across an interesting article?"
+    },
+    "present": {
+      "affirmative": "I have been coming across an interesting article",
+      "negative": "I haven't been coming across an interesting article",
+      "interrogative": "Have I been coming across an interesting article?"
+    },
+    "future": {
+      "affirmative": "I will have been coming across an interesting article",
+      "negative": "I won't have been coming across an interesting article",
+      "interrogative": "Will I have been coming across an interesting article?"
+    }
+  }
+}
