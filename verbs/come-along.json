@@ -1,0 +1,70 @@
+{
+  "simple": {
+    "past": {
+      "affirmative": "They come along to help",
+      "negative": "They didn't come along to help",
+      "interrogative": "Did they come along to help?"
+    },
+    "present": {
+      "affirmative": "They come along to help.",
+      "negative": "They don't come along to help",
+      "interrogative": "Do they come along to help?"
+    },
+    "future": {
+      "affirmative": "They will come along to help",
+      "negative": "They won't come along to help",
+      "interrogative": "Will they come along to help?"
+    }
+  },
+  "perfect": {
+    "past": {
+      "affirmative": "They had come along to help",
+      "negative": "They hadn't come along to help",
+      "interrogative": "Had they come along to help?"
+    },
+    "present": {
+      "affirmative": "They have come along to help",
+      "negative": "They haven't come along to help",
+      "interrogative": "Have they come along to help?"
+    },
+    "future": {
+      "affirmative": "They will have come along to help",
+      "negative": "They won't have come along to help",
+      "interrogative": "Will they have come along to help?"
+    }
+  },
+  "continuous": {
+    "past": {
+      "affirmative": "They were coming along to help",
+      "negative": "They weren't coming along to help",
+      "interrogative": "Were they coming along to help?"
+    },
+    "present": {
+      "affirmative": "They are coming along to help",
+      "negative": "They aren't coming along to help",
+      "interrogative": "Are they coming along to help?"
+    },
+    "future": {
+      "affirmative": "They will be coming along to help",
+      "negative": "They won't be coming along to help",
+      "interrogative": "Will they be coming along to help?"
+    }
+  },
+  "perfectcontinuous": {
+    "past": {
+      "affirmative": "They had been coming along to help",
+      "negative": "They hadn't been coming along to help",
+      "interrogative": "Had they been coming along to help?"
+    },
+    "present": {
+      "affirmative": "They have been coming along to help",
+      "negative": "They haven't been coming along to help",
+      "interrogative": "Have they been coming along to help?"
+    },
+    "future": {
+      "affirmative": "They will have been coming along to help",
+      "negative": "They won't have been coming along to help",
+      "interrogative": "Will they have been coming along to help?"
+    }
+  }
+}
